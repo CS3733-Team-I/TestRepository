@@ -29,7 +29,10 @@ public class teamlist {
         System.out.println("Ziheng(Leo) Li");
         print();
     }
-
+    // this is from mary's branch
+    public static void mary(){
+        System.out.println("this is from Mary's branch");
+    }
     public static void print() {
         System.out.println("branch Da Xu");
     }
