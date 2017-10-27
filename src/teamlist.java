@@ -5,9 +5,11 @@ public class teamlist {
         System.out.println("Michael Sidler");
         System.out.println("Da Xu");
         System.out.println("Ben Gillette");
+        System.out.println("John Parrick");
         // finally working for mary
         System.out.println("Mary Hatfalvi");
         printbkg();
+        print_jp();
 
     }
     private static void printbkg(){
@@ -34,5 +36,5 @@ public class teamlist {
 
     public static void print_jp() {
         System.out.println("John Parrick -- Branch");
-  }
+    }
 }
