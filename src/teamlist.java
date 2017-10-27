@@ -6,6 +6,8 @@ public class teamlist {
         System.out.println("Da Xu");
         System.out.println("Ben Gillette");
         System.out.println("John Parrick");
+        // finally working for mary
+        System.out.println("Mary Hatfalvi");
         printbkg();
         print_jp();
         print_hd();
@@ -13,11 +15,11 @@ public class teamlist {
     }
     private static void printbkg(){
         System.out.println("Ben Gillette new method");
-
+        System.out.println("John Parrick");
         System.out.println("Henry Dunphy");
 
         jerry();
-
+        print_jp();
     }
 
     public static void jerry() {
