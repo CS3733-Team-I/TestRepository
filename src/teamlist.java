@@ -6,6 +6,10 @@ public class teamlist {
         System.out.println("Da Xu");
         System.out.println("Ben Gillette");
 
+        jerry();
+    }
+
+    public static void jerry() {
         System.out.println("Jerry Branch -- Branch");
     }
 }
