@@ -5,5 +5,10 @@ public class teamlist {
         System.out.println("Michael Sidler");
         System.out.println("Da Xu");
         System.out.println("Ben Gillette");
+        printbkg();
+
+    }
+    private static void printbkg(){
+        System.out.println("Ben Gillette new method");
     }
 }
