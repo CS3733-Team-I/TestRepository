@@ -1,7 +1,6 @@
 public class teamlist {
 
     public static void main(String[] args) {
-        this.print_zli();
         System.out.println("Jerry Brown");
         System.out.println("Michael Sidler");
         System.out.println("Da Xu");
@@ -22,5 +21,10 @@ public class teamlist {
 
     public void print_zli() {
         System.out.println("Ziheng(Leo) Li");
+        print();
+    }
+
+    public static void print() {
+        System.out.println("branch Da Xu");
     }
 }
