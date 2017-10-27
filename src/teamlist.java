@@ -5,16 +5,18 @@ public class teamlist {
         System.out.println("Michael Sidler");
         System.out.println("Da Xu");
         System.out.println("Ben Gillette");
+        System.out.println("John Parrick");
         printbkg();
+        print_jp();
 
     }
     private static void printbkg(){
         System.out.println("Ben Gillette new method");
-        System.out.println("John Parrick");
+
         System.out.println("Henry Dunphy");
 
         jerry();
-        print_jp();
+
     }
 
     public static void jerry() {
