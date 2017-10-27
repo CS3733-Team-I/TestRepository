@@ -6,5 +6,6 @@ public class teamlist {
         System.out.println("Ziheng(Leo) Li");
         System.out.println("Da Xu");
         System.out.println("Ben Gillette");
+        System.out.println("John Parrick");
     }
 }
