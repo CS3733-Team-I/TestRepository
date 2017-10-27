@@ -11,7 +11,7 @@ public class teamlist {
     private static void printbkg(){
         System.out.println("Ben Gillette new method");
         System.out.println("John Parrick");
-        System.out.pringln("Henry Dunphy");
+        System.out.println("Henry Dunphy");
 
         jerry();
         print_jp();
