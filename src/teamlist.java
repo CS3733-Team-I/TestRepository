@@ -9,6 +9,7 @@ public class teamlist {
         System.out.println("John Parrick");
 
         jerry();
+        print_jp();
     }
 
     public static void jerry() {
@@ -17,5 +18,9 @@ public class teamlist {
 
     public void print_zli() {
         System.out.println("Ziheng(Leo) Li");
+    }
+
+    public static void print_jp() {
+        System.out.println("John Parrick -- Branch");
     }
 }
