@@ -11,12 +11,12 @@ public class teamlist {
         System.out.println("Mary Hatfalvi");
         printbkg();
         print_jp();
+        print_hd();
 
     }
     private static void printbkg(){
         System.out.println("Ben Gillette new method");
         System.out.println("John Parrick");
-        System.out.println("Henry Dunphy");
 
         jerry();
         print_jp();
@@ -37,6 +37,10 @@ public class teamlist {
 
     public static void print_jp() {
         System.out.println("John Parrick -- Branch");
+    }
+
+    public static void print_hd(){
+        System.out.println("Henry Dunphy");
     }
 
     public static void printMichael() {
